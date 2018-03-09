@@ -1,0 +1,2 @@
+# JSON concatenation performance testing
+
